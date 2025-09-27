@@ -1,4 +1,3 @@
-
 # 🇩🇪 Deutsch Entdecker (German Explorers)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/hetfs/Deutsch-Entdecker?style=flat-square)](https://github.com/hetfs/Deutsch-Entdecker)
@@ -75,7 +74,7 @@ If you want the full documentation experience locally:
 
 ## 🤝 How to Contribute
 
-Everyone is welcome to contribute — you don’t need to be an expert.
+Everyone is welcome to contribute you don’t need to be an expert.
 
 You can help by:
 

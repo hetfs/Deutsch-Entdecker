@@ -19,7 +19,8 @@ Whether you’re just starting (A1) or working toward fluency (C1), you’ll fin
 
 This project is the companion resource to our community chat groups.
 
-## 🌟 Philosophy
+### 🌟 Philosophy
+
 * **Learn Together**: Share your insights and uplift others.
 * **Learn by Doing**: Contributing helps solidify your own knowledge.
 * **Open Access**: All materials are free and open to everyone.
@@ -28,37 +29,61 @@ This project is the companion resource to our community chat groups.
 
 ## 🚀 Getting Started
 
-### **Clone the Repository**
+You can use the project in two ways:
+
+### 1. Explore Resources on GitHub
+
+* Browse by level (`A1`, `A2`, `B1`, etc.) or by topic (`grammar`, `vocabulary`, `exercises`).
+* Use and download materials like PDFs, Markdown files, and worksheets for personal study.
+
+### 2. Run the Documentation Site
+
+If you want the full documentation experience locally:
+
+1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/hetfs/Deutsch-Entdecker.git
-````
+   cd Deutsch-Entdecker
+   ```
 
+2. **Install Dependencies**
+   Make sure you have [Node.js](https://nodejs.org/) (version 18 or higher recommended).
+   Then run:
 
-1. **Browse the Folders**
-   Explore by level (A1, A2, B1, etc.) or by topic (grammar, vocabulary, exercises).
+   ```bash
+   npm install
+   ```
 
-2. **Use & Download Materials**
-   PDFs, Markdown files, worksheets — all available for your personal study.
+3. **Start the Local Server**
 
-3. **Suggest Improvements**
-   Found a typo? Think there’s a clearer way to explain something? We welcome your edits.
+   ```bash
+   npm run start
+   ```
+
+   This will open the docs at [http://localhost:3000](http://localhost:3000).
+
+4. **Build the Static Site (Optional)**
+
+   ```bash
+   npm run build
+   ```
 
 ---
 
 ## 🤝 How to Contribute
 
-Everyone is welcome to contribute — you don’t need to be an expert.
+Everyone is welcome to contribute you don’t need to be an expert.
 
 You can help by:
 
 * Fixing spelling or grammar errors
 * Adding new vocabulary entries
-* Writing clearer explanations for challenging grammar points
-* Translating example sentences into Deutsch / English / Français
+* Writing clearer explanations for tricky grammar points
+* Translating examples into Deutsch / English / Français
 * Adding links under the `resources/` folder
 
-👉 Please read [CONTRIBUTING.md](https://github.com/hetfs/Deutsch-Entdecker/blob/main/CONTRIBUTING.md) for detailed guidelines.
+Please read [CONTRIBUTING.md](https://github.com/hetfs/Deutsch-Entdecker/blob/main/CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
