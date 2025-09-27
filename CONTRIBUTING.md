@@ -11,9 +11,10 @@ Every contribution—big or small—helps our community learn and grow together.
 2. **Create a new branch** for your change:
    ```bash
    git checkout -b my-new-contribution
-````
+   ```
 
 3. **Make your changes** (e.g., edit a file, add content, fix an error).
+
 4. **Commit your changes** with a clear message:
 
    ```bash
